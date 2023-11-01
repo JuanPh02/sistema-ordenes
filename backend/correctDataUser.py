@@ -1,0 +1,5 @@
+CORRECT_PASSWORD = 'micontra123'
+REQUESTS_FAILED = {
+  '10.10.10.10': 0,
+  '10.10.10.11': 0
+}
